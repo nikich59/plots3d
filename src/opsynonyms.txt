@@ -1,0 +1,34 @@
+const_c: 0000CC
+var_c: 800080
+sum_c: CC1111
+sub_c: CC1111
+mul_c: cc1111
+div_c: cc1111
+sin_c: ffd700
+cos_c: ffd700
+sqrt_c: ffd700
+neg_c: 33aa55
+
+constant: pi 3.14159267
+constant: пи 3.14159267
+constant: e 2.718281828
+constant: g 9.81
+constant: G_earth 9.81
+constant: zero 0
+constant: one 1
+constant: two 2
+constant: three 3
+constant: four 4
+constant: five 5
+constant: six 6
+constant: seven 7
+constant: eight 8
+constant: nine 9
+constant: i {0;1}
+
+sum_s: + plus PLUS
+sub_s: - minus MINUS
+mul_s: * multiply MYLTIPLY
+div_s: / divide DIVIDE
+
+mul_d: ×
